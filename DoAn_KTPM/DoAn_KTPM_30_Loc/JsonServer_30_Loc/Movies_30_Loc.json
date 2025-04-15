@@ -1,0 +1,132 @@
+{
+  "movies_30_Loc": [
+    {
+      "id": "1",
+      "title": "Your Name",
+      "director": "Makoto Shinkai",
+      "year": 2016,
+      "description": "Hai học sinh trung học ở hai vùng khác nhau bất ngờ hoán đổi thân xác và dần nảy sinh tình cảm.",
+      "rating": 8.4
+    },
+    {
+      "id": "2",
+      "title": "Hàng Xóm Tôi Là Totoro",
+      "director": "Hayao Miyazaki",
+      "year": 1988,
+      "description": "Hai chị em nhỏ chuyển đến vùng quê và kết bạn với sinh vật kỳ bí tên Totoro.",
+      "rating": 8.2
+    },
+    {
+      "id": "3",
+      "title": "5 Centimet Trên Giây",
+      "director": "Makoto Shinkai",
+      "year": 2007,
+      "description": "Một câu chuyện tình buồn kể về khoảng cách và thời gian giữa hai người bạn thân từ thời thơ ấu.",
+      "rating": 7.6
+    },
+    {
+      "id": "4",
+      "title": "Lâu Đài Trên Không",
+      "director": "Hayao Miyazaki",
+      "year": 1986,
+      "description": "Một cậu bé và một cô bé cùng phiêu lưu đi tìm lâu đài bay huyền thoại trên bầu trời.",
+      "rating": 8
+    },
+    {
+      "title": "Thanh Gươm Diệt Quỷ: Chuyến Tàu Vô Tận",
+      "director": "Haruo Sotozaki",
+      "year": 2022,
+      "description": "Tanjiro và đồng đội lên chuyến tàu để điều tra những vụ mất tích bí ẩn và đối đầu với quỷ dữ.",
+      "rating": 8.3,
+      "id": "5"
+    },
+    {
+      "id": "6",
+      "title": "Akira",
+      "director": "Katsuhiro Otomo",
+      "year": 1988,
+      "description": "Một câu chuyện khoa học viễn tưởng về sự phục hồi của Tokyo sau khi một vụ nổ hạt nhân.",
+      "rating": 8.1
+    },
+    {
+      "id": "6",
+      "title": "Akira",
+      "director": "Katsuhiro Otomo",
+      "year": 1988,
+      "description": "Một câu chuyện khoa học viễn tưởng về sự phục hồi của Tokyo sau khi một vụ nổ hạt nhân.",
+      "rating": 8.1
+    },
+    {
+      "id": "68fb",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "0da5",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "f273",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "3554",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "e6b6",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "2b3b",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "d63c",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "91fa",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    },
+    {
+      "id": "a800",
+      "title": "Spirited Away",
+      "director": "Hayao Miyazaki",
+      "year": 2001,
+      "description": "Một cô bé bị lạc vào một thế giới thần bí và phải làm việc tại một bể tắm ma quái để cứu cha mẹ mình.",
+      "rating": 8.6
+    }
+  ]
+}

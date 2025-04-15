@@ -1,0 +1,36 @@
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\UnitTest_30_Loc.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\UnitTest_30_Loc.pdb
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\30_Loc_43_N2_.exe
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\30_Loc_43_N2_.pdb
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\30_Loc_43_N2_.exe.config
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.csproj.AssemblyReference.cache
+D:\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.csproj.CoreCompileInputs.cache
+D:\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest.A9306447.Up2Date
+D:\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.dll
+D:\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.pdb
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\UnitTest_30_Loc.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\UnitTest_30_Loc.pdb
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\30_Loc_43_N2_.exe
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\30_Loc_43_N2_.pdb
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\30_Loc_43_N2_.exe.config
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.csproj.AssemblyReference.cache
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.csproj.CoreCompileInputs.cache
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest.A9306447.Up2Date
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.dll
+D:\BaoCao\Buổi 1\30_Loc_43_N2_\UnitTest_30_Loc\obj\Debug\UnitTest_30_Loc.pdb

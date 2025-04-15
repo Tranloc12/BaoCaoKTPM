@@ -1,0 +1,10 @@
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\bin\Debug\30_Loc_43_N2_.exe.config
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\bin\Debug\30_Loc_43_N2_.exe
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\bin\Debug\30_Loc_43_N2_.pdb
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\obj\Debug\30_Loc_43_N2_.csproj.AssemblyReference.cache
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\obj\Debug\_30_Loc_43_N2_.Form1.resources
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\obj\Debug\_30_Loc_43_N2_.Properties.Resources.resources
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\obj\Debug\30_Loc_43_N2_.csproj.GenerateResource.cache
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\obj\Debug\30_Loc_43_N2_.csproj.CoreCompileInputs.cache
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\obj\Debug\30_Loc_43_N2_.exe
+D:\BaoCao\Buổi 2\30_Loc_43_N2_\30_Loc_43_N2_\30_Loc_43_N2_\obj\Debug\30_Loc_43_N2_.pdb

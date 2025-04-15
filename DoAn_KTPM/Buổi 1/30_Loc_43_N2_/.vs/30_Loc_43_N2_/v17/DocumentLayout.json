@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F5B6B9-2AE2-401C-86B9-F8ECE5A760FE}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|d:\\baocao\\bu\u1ED5i 1\\30_loc_43_n2_\\unittest_30_loc\\unittest_30_loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F5B6B9-2AE2-401C-86B9-F8ECE5A760FE}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\unittest_30_loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_Loc_43_N2_\\Form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_loc_43_n2_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_loc_43_n2_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Caculation_30_Loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_Loc_43_N2_\\Caculation_30_Loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_Loc_43_N2_\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F5B6B9-2AE2-401C-86B9-F8ECE5A760FE}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\unittest_30_loc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{53F5B6B9-2AE2-401C-86B9-F8ECE5A760FE}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BF288A3-1E35-47AB-AE84-B1AA6C252273}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_Loc_43_N2_\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Form1.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFwAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:56:57.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\UnitTest_30_Loc\\packages.config",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\packages.config",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\UnitTest_30_Loc\\packages.config",
+              "RelativeToolTip": "UnitTest_30_Loc\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-12T10:04:06.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Form1.Designer.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.Designer.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Form1.Designer.cs",
+              "ViewState": "AgIAAFkAAAAAAAAAAAD4v2EAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:22:52.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Caculation_30_Loc.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:14:07.035Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_30_Loc.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "RelativeToolTip": "UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T16:08:04.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Program.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Program.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Program.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:52:24.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Form1.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 1\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs [Design]",
+              "RelativeToolTip": "30_Loc_43_N2_\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:43:41.991Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

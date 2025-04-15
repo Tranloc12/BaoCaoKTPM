@@ -1,0 +1,214 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|d:\\baocao\\bu\u1ED5i 2\\30_loc_43_n2_\\30_loc_43_n2_\\unittest_30_loc\\unittest_30_loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\unittest_30_loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\unittest_30_loc\\data_30_loc\\testdata_fail_4cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\data_30_loc\\testdata_fail_4cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\unittest_30_loc\\data_30_loc\\testdata_fail_3cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\data_30_loc\\testdata_fail_3cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\unittest_30_loc\\data_30_loc\\testdata_pass_4cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\data_30_loc\\testdata_pass_4cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\unittest_30_loc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\unittest_30_loc\\data_30_loc\\testdata_pass_3cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EC80ED71-8FCF-4D15-BB80-326A21DC2C16}|UnitTest_30_Loc\\UnitTest_30_Loc.csproj|solutionrelative:unittest_30_loc\\data_30_loc\\testdata_pass_3cols_30_loc.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|30_Loc_43_N2_||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_loc_43_n2_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_loc_43_n2_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_loc_43_n2_\\caculation_30_loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_loc_43_n2_\\caculation_30_loc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_loc_43_n2_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_loc_43_n2_\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_loc_43_n2_\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_loc_43_n2_\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_loc_43_n2_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F4147E4-5393-46E7-9788-B0614972855D}|30_Loc_43_N2_\\30_Loc_43_N2_.csproj|solutionrelative:30_loc_43_n2_\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\packages.config",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\packages.config",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\packages.config",
+              "RelativeToolTip": "UnitTest_30_Loc\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-13T17:22:14.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest_30_Loc.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "RelativeToolTip": "UnitTest_30_Loc\\UnitTest_30_Loc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:33:30.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TestData_Fail_4cols_30_Loc.csv",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_4cols_30_Loc.csv",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_4cols_30_Loc.csv",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_4cols_30_Loc.csv",
+              "RelativeToolTip": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_4cols_30_Loc.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-13T17:20:50.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestData_Pass_4cols_30_Loc.csv",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_4cols_30_Loc.csv",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_4cols_30_Loc.csv",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_4cols_30_Loc.csv",
+              "RelativeToolTip": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_4cols_30_Loc.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-13T17:14:26.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TestData_Fail_3cols_30_Loc.csv",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_3cols_30_Loc.csv",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_3cols_30_Loc.csv",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_3cols_30_Loc.csv",
+              "RelativeToolTip": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Fail_3cols_30_Loc.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-13T17:07:06.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestData_Pass_3Cols_30_Loc.csv",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_3Cols_30_Loc.csv",
+              "RelativeDocumentMoniker": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_3Cols_30_Loc.csv",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_3Cols_30_Loc.csv",
+              "RelativeToolTip": "UnitTest_30_Loc\\Data_30_Loc\\TestData_Pass_3Cols_30_Loc.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2025-04-13T16:41:27.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Caculation_30_Loc.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Caculation_30_Loc.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:30:26.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Form1.Designer.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.Designer.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Form1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:27:08.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Form1.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:26:51.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "30_Loc_43_N2_",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_.csproj",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\30_Loc_43_N2_.csproj",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_.csproj",
+              "RelativeToolTip": "30_Loc_43_N2_\\30_Loc_43_N2_.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-13T16:26:42.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Program.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Program.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Program.cs",
+              "RelativeToolTip": "30_Loc_43_N2_\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:26:39.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs",
+              "RelativeDocumentMoniker": "30_Loc_43_N2_\\Form1.cs",
+              "ToolTip": "D:\\BaoCao\\Bu\u1ED5i 2\\30_Loc_43_N2_\\30_Loc_43_N2_\\30_Loc_43_N2_\\Form1.cs [Design]",
+              "RelativeToolTip": "30_Loc_43_N2_\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-13T16:25:20.804Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

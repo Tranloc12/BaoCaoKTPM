@@ -1,0 +1,102 @@
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\linux\selenium-manager
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\macos\selenium-manager
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.exe.config
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.exe
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.pdb
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Buffers.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Memory.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Numerics.Vectors.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Encodings.Web.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Json.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.ValueTuple.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\WebDriver.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Buffers.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Memory.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Numerics.Vectors.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Encodings.Web.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Json.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.ValueTuple.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\WebDriver.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.AssemblyReference.cache
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\_30_Loc_27_N2.Form1.resources
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\_30_Loc_27_N2.Properties.Resources.resources
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.GenerateResource.cache
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.CoreCompileInputs.cache
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.CopyComplete
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.exe
+D:\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.pdb
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\linux\selenium-manager
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\macos\selenium-manager
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.exe.config
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.exe
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.pdb
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Buffers.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Memory.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Numerics.Vectors.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Encodings.Web.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Json.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.ValueTuple.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\WebDriver.dll
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Buffers.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Memory.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Numerics.Vectors.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Encodings.Web.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Json.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.ValueTuple.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\WebDriver.xml
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.AssemblyReference.cache
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\_30_Loc_27_N2.Properties.Resources.resources
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.GenerateResource.cache
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.CoreCompileInputs.cache
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_2.4CD2D976.Up2Date
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.exe
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.pdb
+D:\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\_30_Loc_27_N2.Form_30_Loc.resources
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\linux\selenium-manager
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\macos\selenium-manager
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\selenium-manager\windows\selenium-manager.exe
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.exe.config
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.exe
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\30_Loc_27_N2.pdb
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Buffers.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Memory.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Numerics.Vectors.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Encodings.Web.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Json.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.ValueTuple.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\WebDriver.dll
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Buffers.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Memory.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Numerics.Vectors.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Encodings.Web.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Text.Json.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\System.ValueTuple.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\bin\Debug\WebDriver.xml
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.AssemblyReference.cache
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\_30_Loc_27_N2.Form_30_Loc.resources
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\_30_Loc_27_N2.Properties.Resources.resources
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.GenerateResource.cache
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.csproj.CoreCompileInputs.cache
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_2.4CD2D976.Up2Date
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.exe
+D:\BaoCao\Buổi 4\30_Loc_27_N2\30_Loc_27_N2\30_Loc_27_N2\obj\Debug\30_Loc_27_N2.pdb
