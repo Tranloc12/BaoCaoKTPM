@@ -4,7 +4,7 @@
 > **Repository**: [Tranloc12/BaoCaoKTPM](https://github.com/Tranloc12/BaoCaoKTPM)  
 ---
 ![C#](https://img.shields.io/badge/Language-C%23-blue.svg?style=for-the-badge&logo=csharp)
-![.NET](https://img.shields.io/badge/Framework-.NET Framework-purple.svg?style=for-the-badge&logo=dotnet)
+![.NET](<https://img.shields.io/badge/Framework-.NET Framework-purple.svg?style=for-the-badge&logo=dotnet>)
 ![NUnit](https://img.shields.io/badge/Unit_Test-NUnit%2FMSTest-green.svg?style=for-the-badge&logo=nunit)
 ![Selenium](https://img.shields.io/badge/UI_Test-Selenium_WebDriver-orange.svg?style=for-the-badge&logo=selenium)
 ![Postman](https://img.shields.io/badge/API_Test-Postman-red.svg?style=for-the-badge&logo=postman)
