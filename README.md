@@ -73,7 +73,7 @@ BaoCaoKTPM/
         │       └── Form1.cs
         └── JsonServer_30_Loc/        # Thư mục chứa API Mock Server & Postman Tests
 
-
+```
 3. 🧩 CHI TIẾT CÁC PHẦN KIỂM THỬ
 3.1. Unit Test - Tính Chu Vi Hình Chữ Nhật (NUnit / MSTest)
 Đối tượng kiểm thử: Lớp Rectangle_30_Loc với phương thức CalculatePerimeter_30_Loc().
