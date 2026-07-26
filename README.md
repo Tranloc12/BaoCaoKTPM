@@ -58,7 +58,7 @@ BaoCaoKTPM/
 3. 🧩 CHI TIẾT CÁC PHẦN KIỂM THỬ
 3.1. Unit Test - Tính Chu Vi Hình Chữ Nhật (NUnit / MSTest)
 Đối tượng kiểm thử: Lớp Rectangle_30_Loc với phương thức CalculatePerimeter_30_Loc().
-Công thức toán học: P=(d+r)×2 (trong đó d: chiều dài, r: chiều rộng).
+Công thức toán học: P = (d + r) * 2 (trong đó d: chiều dài, r: chiều rộng).
 Kỹ thuật thiết kế Test Case: Phân hoạch tương đương (Equivalence Partitioning) & Phân tích giá trị biên (Boundary Value Analysis).
 🛠️ Code Demo (UnitTest_30_Loc.cs):
 csharp
